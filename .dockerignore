@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+uploaded_video.mp4
+.git
+.gitignore
+*.pt
